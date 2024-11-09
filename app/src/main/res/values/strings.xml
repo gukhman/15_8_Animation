@@ -3,4 +3,11 @@
     <string name="toolbarTitle">Красивая анимация</string>
     <string name="exit">Выход</string>
 
+    <string name="mainText_text">Анимации!</string>
+    <string name="registrationTitle_text">Регистрация</string>
+    <string name="loginEditText_hint">Логин</string>
+    <string name="passwordEditText_hint">Пароль</string>
+    <string name="registerButton_text">Зарегистрироваться</string>
+    <string name="startButton_text">Начать</string>
+
 </resources>

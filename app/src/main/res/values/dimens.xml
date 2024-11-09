@@ -8,5 +8,5 @@
     <dimen name="minHeightET">48sp</dimen>
     <dimen name="defPadding">8dp</dimen>
     <dimen name="smallTextSize">14sp</dimen>
-    <dimen name="minImageHeight">100dp</dimen>
+    <dimen name="imageHeight">350dp</dimen>
 </resources>
